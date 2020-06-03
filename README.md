@@ -45,3 +45,7 @@ Ubuntu 12+
 
 如果喜欢的话可以帮忙点个 `star` 感谢支持 
 
+##核心
+##git之后运行
+ss-fly/ss-fly.sh -ssr
+
